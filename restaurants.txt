@@ -1,0 +1,5 @@
+Hot Tamale	Mexican	25
+BackYard Burger	American	7.5Harrys	Mexican	10.9
+Harrys	Spanish	10.8
+pitta pocket	Fast Food	21.1
+Betsys Ham Shack	Downhome Cooking	4.55
